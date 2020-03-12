@@ -1,4 +1,6 @@
 #! /bin/bash
+
+# this script averages rsfMRI runs 
 subj=$1
 
 space='lh rh'
